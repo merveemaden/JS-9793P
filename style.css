@@ -1,0 +1,46 @@
+ #title {
+    text-align: center;
+    bottom: auto;
+    margin-top :100px ;
+    color: rgb(12, 105, 139);
+ }
+ #changeNumber {
+   display: block;
+   text-align: center;
+   font-size: 100px;   
+   color: rgb(12, 105, 139);
+}
+#container {
+    text-align: center;
+    
+}
+#upgrade {
+   
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(94, 135, 237);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+#drop {
+    
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(94, 135, 237);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+#reset {
+   
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color:white;
+    background-color: rgb(94, 135, 237);
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
